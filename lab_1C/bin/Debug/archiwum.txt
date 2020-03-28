@@ -1,0 +1,6 @@
+Zings|Amadeusz|49|66
+Kowalewski|Wojciech|45|81
+Kowalski|Adam|38|69
+Kopeć|Marian|29|89
+Limanówka|Dominika|20|58
+Adam|Adamczyk|45|84
